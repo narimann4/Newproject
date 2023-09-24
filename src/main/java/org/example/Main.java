@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Long time no see!");
     }
     private static void mainMethodShowInfo() {
-        System.out.println("Good luck!");
+        System.out.println("Have a nice day!");
     }
 }
